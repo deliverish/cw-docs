@@ -6,8 +6,6 @@ description: >-
 
 # 10-Minute Quickstart
 
-## 
-
 ## Quick-start Steps
 
 1. Visit https://get.deliverish.com.au and sign up for an account
