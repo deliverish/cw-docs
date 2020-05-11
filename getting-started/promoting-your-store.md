@@ -38,7 +38,7 @@ SEO which stands for search engine optimization is the process of making your si
 
 ### Setup A Custom Domain Name
 
-By default, your online store can be found on a sub-domain of "deliverish.com.au. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
+By default, your online store can be found on a sub-domain of "cloudwaitress.com. It is essential that you set this subdomain to be something that customers can easily remember and recognize.
 
 While the subdomain is just there to get you up and running quickly, it's best to purchase your own domain name for your business. You can then configure your store to your own custom domain name.
 
@@ -48,7 +48,7 @@ Once you have purchased your own domain name, visit "Settings &gt; Website &gt; 
 
 Under the "Settings &gt; Website &gt; SEO" section, you can edit your website title and meta description. This is the info Google will show on its search listings. It is recommended that you set these to something extremely local.
 
-Say you own an Indian restaurant called the Red Turban in a suburb called Nightcliff in Darwin. Your title should be "Red Turban - Authentic Indian Nightcliff Darwin.
+Say you own an Indian restaurant called the Red Turban in a suburb called Townsville in New York. Your title should be "Red Turban - Authentic Indian Townsville New York.
 
 Your meta description should just expand on that more but make sure to hit on your keywords which are your locality and cuisine. The reason for this is because locality will reduce the massive competition and noise of other websites on search engines and it is most likely what customers will be searching for in your local area.
 
